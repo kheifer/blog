@@ -39,3 +39,5 @@ build/
 Gradlew
 Gradlew.bat
 settings.gradle
+.gitignore
+.idea
